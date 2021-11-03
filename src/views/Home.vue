@@ -47,10 +47,10 @@
 						<a href="https://www.instagram.com/varlei_cesare/"><i class="fab fa-instagram fa-lg link hvr-pop"></i></a>
 						@varlei_cesare
 					</li>
-					<li>
-						<a href="wa.me/5554991091980"><i class="fab fa-whatsapp fa-lg link hvr-pop"></i></a>
-						Varlei De Cesare
-					</li>
+<!--					<li>-->
+<!--						<a href="wa.me/5554991091980"><i class="fab fa-whatsapp fa-lg link hvr-pop"></i></a>-->
+<!--						Varlei De Cesare-->
+<!--					</li>-->
 				</ul>
 			</div>
 		</div>
