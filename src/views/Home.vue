@@ -133,6 +133,9 @@ li{
 	#name-cargo p{
 		font-size: 14px;
 	}
+	ul, li{
+		padding: 0!important;
+	}
 }
 
 </style>
