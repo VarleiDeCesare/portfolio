@@ -12,7 +12,7 @@
 						<!--<img src="" alt="">-->
 						<!--						<i class="fas fa-user fa-3x"></i>-->
 						<v-avatar class="hvr-float" height="75px" width="75px">
-							<img src="../assets/emoji.jpeg">
+							<img src="../assets/perfil.jpeg">
 						</v-avatar>
 					</div>
 				</div>
